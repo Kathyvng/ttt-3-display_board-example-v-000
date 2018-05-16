@@ -1,8 +1,7 @@
 def display_board
-  print "   |   |   \n"
-  print "-----------\n"
-  print "   |   |   \n"
-  print "-----------\n"
-  print "   |   |   \n"
+  print "   |   |   "
+  print "-----------"
+  print "   |   |   "
+  print "-----------"
+  print "   |   |   "
 end
-
